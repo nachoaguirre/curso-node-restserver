@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "reservame.app",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "reservame app",
+            "database": "reservameci3",
+            "username": "reservameci3",
+            "password": "r3s3rv4_2021_ci3"
+        }
+    ]
+}
